@@ -34,7 +34,7 @@ Este es um aplicativo com finalidade de gerenciar treinos, nutrição e dar info
 |-----:|-----------|
 |     1| *Nutrição*  |
 |     2| *Anatomia*  |
-|     3| *Atualizações do app* |
-|     4| *Dicas* | 
+|     3| *Dicas* |
+|     4| *Atualizações do app* | 
 
 </details>
