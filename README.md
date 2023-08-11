@@ -10,16 +10,23 @@ Este es um aplicativo com finalidade de gerenciar treinos, nutrição e dar info
 
 <p>
 
-> - [ ] **Wiki**
+> - [ ] **Registro.**
 >       
-> - [ ] **Gerenciador de Calorías.**
->
-> - [ ] **Balance de Calorias.**
->
-> - [ ] **Gerenciador de Treinos.**
->
-> - [ ] **Rotinas de Exercícios.**
-> - [ ] Espaço 
+> - [ ] **Inicio de Seção.**
+>       
+> - [ ] **Wiki.**
+>       
+> - [ ] **Treinos.**
+>       
+> - [ ] **Nutrição.**
+>       
+> - [ ] **Espaço Empresa.**
+>       
+> - [ ] **Perfis.**
+>       
+> - [ ] **Planos.**
+>       
+> - [ ] **Espaço Administrador.**
 
 
 </p>
@@ -36,6 +43,7 @@ Este es um aplicativo com finalidade de gerenciar treinos, nutrição e dar info
 |     1| *Nutrição*  |
 |     2| *Anatomia*  |
 |     3| *Dicas* |
-|     4| *Atualizações do app* | 
+|     4| *Novos planos* |
+|     5| *Atualizações do app* | 
 
 </details>
