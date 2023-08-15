@@ -24,16 +24,17 @@ public class GymLabsApp {
                           } else {            
                           System.out.println("Credenciais incorretas. Por favor, tente de novo.");        
                           }
+                          
 
                     int opcion = 0;
 
          while (opcion != 5) {
             System.out.println("¿Qual opção quer selecionar?");
-            System.out.println("1. Wiki");
-            System.out.println("2. Meu Progresso");
-            System.out.println("3. Treinos");
-            System.out.println("4. Nutrição");
-            System.out.println("5. Configurações");
+            System.out.println("1. Ver Wiki");
+            System.out.println("2. Ver Meu Progresso");
+            System.out.println("3. Ver Treinos");
+            System.out.println("4. Ver Nutrição");
+            System.out.println("5. Ver Configurações");
             
             opcion = scanner.nextInt();
 
@@ -98,9 +99,11 @@ public class GymLabsApp {
                                                                           // Lógica para mostrar el menú de opciones para el usuario        
                                                                           // Ejemplo:        
                                                                           System.out.println("Menú de opções para o usuário:");        
-                                                                          System.out.println("1. Ver rotinas de exercício");        
-                                                                          System.out.println("2. Ver planos de nutrição");        
-                                                                          System.out.println("3. Ver progresso");        
+                                                                          System.out.println("1. Wiki");        
+                                                                          System.out.println("2. Meu progresso");        
+                                                                          System.out.println("3. Treinos");
+                                                                          System.out.println("3. Nutrição");
+                                                                          System.out.println("3. Consigurações");        
                                                                           // ...    
                                                                           }
                                                                               private static void mostrarMenuAdministrador() {        
@@ -113,5 +116,3 @@ public class GymLabsApp {
                                                                               // ...    
                                                                               }
                                                                               }
-
-```
