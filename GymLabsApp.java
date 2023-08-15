@@ -6,6 +6,7 @@
  * Começo do Software "Gym Labs"
  */
 import java.util.Scanner;
+
 public class GymLabsApp {
     public static void main(String[] args) {
          Scanner scanner = new Scanner(System.in);
@@ -20,7 +21,7 @@ public class GymLabsApp {
                           { 
                           System.out.println("Início de seção exitoso");            
                           // Mostrar menú de opciones para el usuario            
-                          mostrarMenuUsuario();        
+                          MenuUsuario();        
                           } else {            
                           System.out.println("Credenciais incorretas. Por favor, tente de novo.");        
                           }
@@ -77,7 +78,7 @@ public class GymLabsApp {
                                          {
                                                      System.out.println("Bem-Vindo ao espaço de Administrador");            
                                                      // Mostrar opciones de administración            
-                                                     mostrarMenuAdministrador();        
+                                                     MenuAdministrador();        
                                                      } else {            
                                                      System.out.println("Código de administrador incorreto. Acesso denegado.");        
                                                     }
