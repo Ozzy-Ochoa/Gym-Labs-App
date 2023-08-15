@@ -1,4 +1,4 @@
-# Codigo Java do app:
+# Codigo:
 
 ```Java
   
@@ -27,26 +27,41 @@ public class GymLabsApp {
 
                     int opcion = 0;
 
-         while (opcion != 3) {
+         while (opcion != 5) {
             System.out.println("¿Qual opção quer selecionar?");
-            System.out.println("1. Opção 1");
-            System.out.println("2. Opção 2");
-            System.out.println("3. Opção 3");
+            System.out.println("1. Wiki");
+            System.out.println("2. Meu Progresso");
+            System.out.println("3. Treinos");
+            System.out.println("4. Nutrição");
+            System.out.println("5. Configurações");
             
             opcion = scanner.nextInt();
 
             switch (opcion) {
                 case 1:
-                    // Lógica para la opción 1
+                    // Opção 1 Accesso a WIKI GYM LABS  
                     System.out.println("Selecionou a opção 1");
+                    System.out.println("Bem-Vind@s à Wiki de Gym Labs.");
                     break;
                 case 2:
-                    // Lógica para la opción 2
+                    // Opção 2 Accesso a MEU PROGRESSO
                     System.out.println("Selecionou a opção 2");
+                    System.out.println("Bem-Vind@s à Meu Progresso.");
                     break;
                 case 3:
-                    // Salir del menú
+                    // Opção 3 Accesso a TREINOS
                     System.out.println("Selecionou a opção 3");
+                    System.out.println("Bem-Vind@s à Treinos");
+                    break;
+                case 4:
+                    // Opção 4 Accesso a NUTRIÇÃO
+                    System.out.println("Selecionou a opção 4");
+                    System.out.println("Bem-Vind@s à Nutrição");
+                    break;
+                case 5:
+                    // Opção 5 Accesso a CONFIGURAÇÕES
+                    System.out.println("Selecionou a opção 5");
+                    System.out.println("Bem-Vind@s às Configurações de Gym Labs");
                     break;
                 default:
                     System.out.println("Opção inválida. Tente novamente.");
