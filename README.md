@@ -47,3 +47,21 @@ Este es um aplicativo com finalidade de gerenciar treinos, nutrição e dar info
 |     5| *Atualizações do app* | 
 
 </details>
+
+### Avance do app:
+
+```docker
+version: '0.1.0'
+services:
+    GymLabs:
+        container_name: AoAssistant
+        environment:
+            - mysqlUser=aoassisnant
+            - mysqlPass=MY_SUPER_SECRET_MYSQL_PASSWORD
+            - mysqlHost=mysql
+            - mysqlPort=3306
+            - mysqldb=albionAssistant
+            - TOKEN=MY_SUPER_SECRET_TOKEN
+        restart: always
+        image: 'aoassistant:latest'
+```
