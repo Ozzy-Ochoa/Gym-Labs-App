@@ -95,24 +95,25 @@ public class GymLabsApp {
                                                                       // Ejemplo:        
                                                                       return adminCode.equals("12345");    
                                                                       }
-                                                                          private static void mostrarMenuUsuario() {        
+                                                                          private static void MenuUsuario() {        
                                                                           // Lógica para mostrar el menú de opciones para el usuario        
                                                                           // Ejemplo:        
                                                                           System.out.println("Menú de opções para o usuário:");        
                                                                           System.out.println("1. Wiki");        
                                                                           System.out.println("2. Meu progresso");        
                                                                           System.out.println("3. Treinos");
-                                                                          System.out.println("3. Nutrição");
-                                                                          System.out.println("3. Consigurações");        
+                                                                          System.out.println("4. Nutrição");
+                                                                          System.out.println("5. Consigurações");        
                                                                           // ...    
                                                                           }
-                                                                              private static void mostrarMenuAdministrador() {        
+                                                                              private static void MenuAdministrador() {        
                                                                               // Lógica para mostrar el menú de opciones para el administrador        
                                                                               // Ejemplo:        
                                                                               System.out.println("Menú de opções para o administrador:");        
-                                                                              System.out.println("1. Agregar rotina de exercício");        
-                                                                              System.out.println("2. Agregar plano de nutrição");        
-                                                                              System.out.println("3. Administrar usuarios");        
+                                                                              System.out.println("1. Agregar Conteúdo á WIKI");        
+                                                                              System.out.println("2. Agregar plano de Treino");
+                                                                              System.out.println("2. Agregar plano de Nutrição");
+                                                                              System.out.println("6. Administrar usuarios");        
                                                                               // ...    
                                                                               }
                                                                               }
