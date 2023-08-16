@@ -6,7 +6,7 @@
 Bem-vindo ao Gym Labs, uma ferramenta para gerenciar suas atividades na academia e sua nutrição de maneira eficiente. Embora atualmente não tenha uma interface visual, este código mostra como estruturar as diferentes funcionalidades e opções disponíveis.
 
 
-# --> Recursos
+## --> Recursos
 O aplicativo oferece as seguintes características e opções tanto para usuários regulares quanto para administradores:
 
 
