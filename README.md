@@ -74,7 +74,9 @@ Divirta-se explorando o Gym Labs e melhorando seu bem-estar pessoal!
 <details>
 <summary> Conteúdo da Wiki </summary>
 
-| Wiki | Conteúdo |
+| WIKI |
+|-----:|-----------|
+| Recursos | Conteúdo |
 |-----:|-----------|
 |     1| *Nutrição*  |
 |     2| *Anatomia*  |
@@ -82,15 +84,33 @@ Divirta-se explorando o Gym Labs e melhorando seu bem-estar pessoal!
 |     4| *Novos planos* |
 |     5| *Atualizações do app* | 
 
+| Titulo               | Seccion 1: Recursos; | Seccion 2: Conteúdo; |
+|----------------------|----------------------|----------------------|
+| 1                    | Como Usar o App.    |                      |
+| 2                    | Conseitos básicos da Academia. |                 |
+| 3                    | Nutrição.            |                      |
+| 4                    | Anatomia.            |                      |
+| 5                    | Dicas.               |                      |
+| 6                    | Membresias.          |                      |
+| 7                    | Atualizações do app. |                      |
+
+
 </details>
 
 > **Pendencias de código:**\
+> 
 > Sem Base de Dados.
+> 
 > Sem Interface Visual.
+> 
 > Categorias Incompletas.
+> 
 > Falta Cálculos para Treinos.
+> 
 > Falta Cálculos e Tabuas para Nutrição.
+> 
 > Faltam Componentes em "Configurações do App."
+> 
 > Faltam Componentes em "Administrar Usuários."
 
 
