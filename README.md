@@ -49,6 +49,8 @@ Divirta-se explorando o Gym Labs e melhorando seu bem-estar pessoal!
 > - [x] **Inicio de Seção.**
 >       
 > - [x] **Wiki.**
+>
+> - [x] **Meu Progresso.**
 >       
 > - [x] **Treinos.**
 >       
@@ -58,9 +60,9 @@ Divirta-se explorando o Gym Labs e melhorando seu bem-estar pessoal!
 >       
 > - [ ] **Espaço Empresa.**
 >       
-> - [ ] **Perfis.**
+> - [ ] **Perfil.**
 >       
-> - [ ] **Planos.**
+> - [ ] **Membresias.**
 >       
 > - [x] **Espaço Administrador.**
 
@@ -69,36 +71,26 @@ Divirta-se explorando o Gym Labs e melhorando seu bem-estar pessoal!
 
 </details>
 
----
 
 <details>
 <summary> Conteúdo da Wiki </summary>
 
-| WIKI |
-|-----:|-----------|
-| Recursos | Conteúdo |
-|-----:|-----------|
-|     1| *Nutrição*  |
-|     2| *Anatomia*  |
-|     3| *Dicas* |
-|     4| *Novos planos* |
-|     5| *Atualizações do app* | 
-
-| Titulo               | Seccion 1: Recursos; | Seccion 2: Conteúdo; |
-|----------------------|----------------------|----------------------|
-| 1                    | Como Usar o App.    |                      |
-| 2                    | Conseitos básicos da Academia. |                 |
-| 3                    | Nutrição.            |                      |
-| 4                    | Anatomia.            |                      |
-| 5                    | Dicas.               |                      |
-| 6                    | Membresias.          |                      |
-| 7                    | Atualizações do app. |                      |
+| ARTÍCULOS:           | TITULOS:               | CONTEÚDOS:           |
+|----------------------|------------------------|----------------------|
+| 1                    | *Como Usar o App.*     |                      |
+| 2                    | *Conceitos da Academia.* |                    |
+| 3                    | *Nutrição.*            |                      |
+| 4                    | *Anatomia.*            |                      |
+| 5                    | *Dicas.*               |                      |
+| 6                    | *Membresias.*          |                      |
+| 7                    | *Atualizações do app.* |                      |
 
 
 </details>
 
-> **Pendencias de código:**\
-> 
+<details>
+<summary> Pendencias do Código: </summary>
+  
 > Sem Base de Dados.
 > 
 > Sem Interface Visual.
@@ -113,6 +105,7 @@ Divirta-se explorando o Gym Labs e melhorando seu bem-estar pessoal!
 > 
 > Faltam Componentes em "Administrar Usuários."
 
+</details>
 
 **Autor:** _Ozzy Ochoa_             
 
