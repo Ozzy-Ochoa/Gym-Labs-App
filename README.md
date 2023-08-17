@@ -1,6 +1,5 @@
 # --> Aplicativo Gym Labs
-![Static Badge](https://img.shields.io/badge/APACHE%202.0-LICENCE-purple?style=plastic&link=https%3A%2F%2Fgithub.com%2FOzzy-Ochoa%2FGym-Labs-App%2Fblob%2Fmain%2FLICENSE)
-
+![Static Badge](https://img.shields.io/badge/APACHE%202.0-LICENSE-purple?style=plastic&logo=apache&logoColor=%23000100&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2FOzzy-Ochoa%2FGym-Labs-App%2Fblob%2Fmain%2FLICENSE)
 
 
 Bem-vindo ao Gym Labs, uma ferramenta para gerenciar suas atividades na academia e sua nutrição de maneira eficiente. Embora atualmente não tenha uma interface visual, este código mostra como estruturar as diferentes funcionalidades e opções disponíveis.
