@@ -1,5 +1,5 @@
 # --> Aplicativo Gym Labs
-[![APACHE 2.0](https://img.shields.io/badge/APACHE%202.0-LICENCE-purple.svg?style=plastic&logo=apache&logoColor=%23000100)](https://github.com/Ozzy-Ochoa/Gym-Labs-App/blob/main/LICENSE)
+[![APACHE 2.0](https://img.shields.io/badge/APACHE%202.0-LICENSE-purple.svg?style=plastic&logo=apache&logoColor=%23000100)](https://github.com/Ozzy-Ochoa/Gym-Labs-App/blob/main/LICENSE)
 ![PROGRAMADO EN JAVA](https://img.shields.io/badge/PROGRAMADO%20EM-JAVA-orange?style=plastic&logo=java)
 ![DESENVOLVIDO PARA ANDROID](https://img.shields.io/badge/DESENVOLVIDO%20PARA-ANDROID-green?logo=android&style=plastic)
 
