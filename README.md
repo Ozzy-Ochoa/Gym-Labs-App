@@ -111,9 +111,11 @@ Divirta-se explorando o Gym Labs e melhorando seu bem-estar pessoal!
 
 </details>
 
+
 **Autor:** _Ozzy Ochoa_             
 
-**Data:** _07/05/2023_             
+**Data:** _08/05/2023_             
 
 **Licença:** _Apache 2.0_
+
 
