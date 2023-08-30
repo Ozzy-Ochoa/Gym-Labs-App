@@ -1,5 +1,4 @@
-```Java
-
+package Backend;
   import java.util.Scanner;
 
 public class GymLabsAppBorrador {
@@ -143,4 +142,4 @@ public class GymLabsAppBorrador {
         System.out.println("6. Administrar usuarios");
         // ...
     }
-}```
+}
