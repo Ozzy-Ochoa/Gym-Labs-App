@@ -1,8 +1,4 @@
-# Codigo:
-
-```Java
-  
-  /**
+/**
  * Começo do Software "Gym Labs"
  */
 import java.util.Scanner;
