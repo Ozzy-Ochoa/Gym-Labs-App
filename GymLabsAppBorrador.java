@@ -1,5 +1,4 @@
-package Backend;
-  import java.util.Scanner;
+import java.util.Scanner;
 
 public class GymLabsAppBorrador {
     public static void main(String[] args) {
