@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Registro",
+            "request": "launch",
+            "mainClass": "GymLabsApp.Backend.Arquivos.Registro",
+            "projectName": "Gym-Labs-App_8add832e"
+        },
+        {
+            "name": "Launch Edge",
+            "request": "launch",
+            "type": "msedge",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Iniciar Chrome para localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
