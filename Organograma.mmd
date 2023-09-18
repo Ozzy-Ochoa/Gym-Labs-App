@@ -1,0 +1,22 @@
+graph TD
+
+subgraph Inicio_del_App
+  A[INICIO DEL APP]
+  A --> |Registrarse| B[Registro]
+  A --> |Iniciar Sesión| C[Login]
+end
+
+subgraph Registro
+  B --> Nome_Completo[Nombre Completo]
+  B --> Nome_de_Usuario[Nombre de Usuario]
+  B --> Data_de_Nascimento[Fecha de Nacimiento]
+  B --> Género
+  B --> Email
+  B --> Número_de_Telefone[Número de Teléfono]
+  B --> Senha
+end
+
+subgraph Login
+  C --> Usuario_Email[Usuario o Email]
+  C --> Senha
+end
